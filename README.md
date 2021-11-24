@@ -62,24 +62,15 @@ MongoDB Express React Redux NodeJs are user in this project.
     - To run frontend type command `npm start` in `/client` folder.
 6.  Open  [localhost:3000](http://localhost:3000/)  in the browser.
  **And application will be up and running.**
-**Here are some images of application:**
-![log![2021-11-24]![2021-11-24](https://user-images.githubusercontent.com/54399942/143185067-5f2da594-8911-4a09-a777-13b28eff0009.png)
+**Here are some images of application:**![login](https://user-images.githubusercontent.com/54399942/143185924-c5e2f862-8ff1-4f0c-b6ee-fbc310c441fa.png)
+![register](https://user-images.githubusercontent.com/54399942/143185993-9fedf1fe-0835-4b80-8099-f5f50e3f75c6.png)
+![user_page](https://user-images.githubusercontent.com/54399942/143186019-947fe630-80a3-4045-ae60-a6aae00da666.png)
+![users_feed](https://user-images.githubusercontent.com/54399942/143186053-f418a637-f46a-4ea9-b9d3-39cb15101fc7.png)
+![admin](https://user-images.githubusercontent.com/54399942/143186231-50bbdba0-64fa-4297-976d-7626c3ffcd81.png)
+![create_post](https://user-images.githubusercontent.com/54399942/143186406-c94d5c62-be44-431d-b30e-f5b303fe884e.png)
 
+![dark_mode](https://user-images.githubusercontent.com/54399942/143186101-9f9fe298-6e0c-416f-afc2-2f836021dab7.png)
 
-![admin panel](https://user-images.githubusercontent.com/72184791/114161299-877f6b80-9945-11eb-9791-cab82f92bd7e.JPG)
-
-![profile page](https://user-images.githubusercontent.com/72184791/114161324-8b12f280-9945-11eb-96a2-0707ee234c8a.JPG)
-
-![home page](https://user-images.githubusercontent.com/72184791/114161305-88180200-9945-11eb-9856-a4b33b8e9def.JPG)
-![new post](https://user-images.githubusercontent.com/72184791/114161309-89492f00-9945-11eb-888f-3ff263cfb909.JPG)
-
-![dark mode](https://user-images.githubusercontent.com/72184791/114161287-851d1180-9945-11eb-8a0e-1a4c56132de0.JPG)
-
-![search users](https://user-images.githubusercontent.com/72184791/114161296-86e6d500-9945-11eb-85cb-eb7c84d4abda.JPG)
-
-![posts menu](https://user-images.githubusercontent.com/72184791/114161315-89e1c580-9945-11eb-8f9f-4156d1184567.JPG)
-
-![explore page](https://user-images.githubusercontent.com/72184791/114161321-8a7a5c00-9945-11eb-8c67-bf42a8f30fcd.JPG)
 
 
 
