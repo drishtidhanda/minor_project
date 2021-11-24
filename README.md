@@ -29,7 +29,6 @@ MongoDB Express React Redux NodeJs are user in this project.
  - comment on posts.
  - reply comments.
  - like commets.
- - clear notification option.
  - profile page shows user details and posts with following and followers menu.
 
 
@@ -58,6 +57,7 @@ MongoDB Express React Redux NodeJs are user in this project.
 ![create_post](https://user-images.githubusercontent.com/54399942/143186406-c94d5c62-be44-431d-b30e-f5b303fe884e.png)
 
 ![dark_mode](https://user-images.githubusercontent.com/54399942/143186101-9f9fe298-6e0c-416f-afc2-2f836021dab7.png)
+
 
 
 
