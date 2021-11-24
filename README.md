@@ -63,8 +63,8 @@ MongoDB Express React Redux NodeJs are user in this project.
 6.  Open  [localhost:3000](http://localhost:3000/)  in the browser.
  **And application will be up and running.**
 **Here are some images of application:**
-![log![2021-11-24](https://user-images.githubusercontent.com/54399942/143184880-dc039ddf-5a5b-407a-8f36-2feea9691f19.png)
-in page](https://user-images.githubusercontent.com/72184791/114161303-877f6b80-9945-11eb-89a7-f05b560bb5e4.JPG)
+![log![2021-11-24]![2021-11-24](https://user-images.githubusercontent.com/54399942/143185067-5f2da594-8911-4a09-a777-13b28eff0009.png)
+
 
 ![admin panel](https://user-images.githubusercontent.com/72184791/114161299-877f6b80-9945-11eb-9791-cab82f92bd7e.JPG)
 
