@@ -1,5 +1,4 @@
-Don't forget to star the repo.
-Demo website : https://mern-social-media-sdp.herokuapp.com/
+
 # SOCIAL HUB
 A MERN stack based project on social media application. Its' completely responsive application.
 MongoDB Express React Redux NodeJs are user in this project.
