@@ -50,18 +50,6 @@ MongoDB Express React Redux NodeJs are user in this project.
  - Cloudinary account
  - NPM
 
-**How to run this application**
-1.  Make sure MongoDB is running on your system or online.
-2. include MongoDB database link in .env file.
-3. Add cloudinary data in /client/src/utils/imageUpload.js file.
-4. Clone this repository
-5. Open command line in the cloned folder,
-    - To install dependencies for backend, run  `npm install` in main folder.
-    - To run backend type command `node server` in main folder.
-    - To install dependencies for frontend , run  `npm install` in `/client` folder.
-    - To run frontend type command `npm start` in `/client` folder.
-6.  Open  [localhost:3000](http://localhost:3000/)  in the browser.
- **And application will be up and running.**
 **Here are some images of application:**![login](https://user-images.githubusercontent.com/54399942/143185924-c5e2f862-8ff1-4f0c-b6ee-fbc310c441fa.png)
 ![register](https://user-images.githubusercontent.com/54399942/143185993-9fedf1fe-0835-4b80-8099-f5f50e3f75c6.png)
 ![user_page](https://user-images.githubusercontent.com/54399942/143186019-947fe630-80a3-4045-ae60-a6aae00da666.png)
